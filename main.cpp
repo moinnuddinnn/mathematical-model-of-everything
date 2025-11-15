@@ -16,7 +16,7 @@ class DynamicNumerals {
 
 
     public:
-    //declaring constructor
+    //declaring constructor/parameterized constructor: lets you create an objevt and manually define a0 and u
     DynamicNumerals(long double init_a0, long double init_u);
     //default constructor
     DynamicNumerals();
