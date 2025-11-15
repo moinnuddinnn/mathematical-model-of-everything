@@ -1,2 +1,4 @@
 # MATHEMATICAL FRAMEWORK FOR THEORY OF EVERYTHING
-A mathematical model of everything, build by string theory and tegmark's mathematical framework of universe, using c++
+This README provides a complete comprehension about the mathematical framework of everything.
+
+####Some important keywords to be understood before we proceed: 
